@@ -33,3 +33,6 @@
 
 ## Final milestone
 - Final review completed for the project timeline.
+
+## Jan 2021 kickoff
+- Added January 2021 project snapshot.
