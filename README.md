@@ -30,3 +30,6 @@
 - Update 28: Added milestone content for commit 28
 - Update 29: Added milestone content for commit 29
 - Update 30: Added milestone content for commit 30
+
+## Final milestone
+- Final review completed for the project timeline.
