@@ -25,3 +25,4 @@
 - Update 23: Added milestone content for commit 23
 - Update 24: Added milestone content for commit 24
 - Update 25: Added milestone content for commit 25
+- Update 26: Added milestone content for commit 26
