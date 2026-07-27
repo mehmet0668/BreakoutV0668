@@ -1,38 +1,13 @@
 # BreakoutV0668
 
-## Timeline
-- Update 2: Added milestone content for commit 2
-- Update 3: Added milestone content for commit 3
-- Update 4: Added milestone content for commit 4
-- Update 5: Added milestone content for commit 5
-- Update 6: Added milestone content for commit 6
-- Update 7: Added milestone content for commit 7
-- Update 8: Added milestone content for commit 8
-- Update 9: Added milestone content for commit 9
-- Update 10: Added milestone content for commit 10
-- Update 11: Added milestone content for commit 11
-- Update 12: Added milestone content for commit 12
-- Update 13: Added milestone content for commit 13
-- Update 14: Added milestone content for commit 14
-- Update 15: Added milestone content for commit 15
-- Update 16: Added milestone content for commit 16
-- Update 17: Added milestone content for commit 17
-- Update 18: Added milestone content for commit 18
-- Update 19: Added milestone content for commit 19
-- Update 20: Added milestone content for commit 20
-- Update 21: Added milestone content for commit 21
-- Update 22: Added milestone content for commit 22
-- Update 23: Added milestone content for commit 23
-- Update 24: Added milestone content for commit 24
-- Update 25: Added milestone content for commit 25
-- Update 26: Added milestone content for commit 26
-- Update 27: Added milestone content for commit 27
-- Update 28: Added milestone content for commit 28
-- Update 29: Added milestone content for commit 29
-- Update 30: Added milestone content for commit 30
+BreakoutV0668 is a lightweight project workspace for testing Git history, commit automation, and repository milestones.
 
-## Final milestone
-- Final review completed for the project timeline.
+## Contents
+- README.md: project documentation
+- goGreen.js: commit automation script
+- data.json: sample JSON data
+- .gitignore: local ignore rules
 
-## Jan 2021 kickoff
-- Added January 2021 project snapshot.
+## Notes
+- This repository is used for demonstrating commit history flow.
+- January 2021 entries are included as historical examples.
