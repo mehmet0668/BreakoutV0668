@@ -7,3 +7,4 @@
 - Update 5: Added milestone content for commit 5
 - Update 6: Added milestone content for commit 6
 - Update 7: Added milestone content for commit 7
+- Update 8: Added milestone content for commit 8
